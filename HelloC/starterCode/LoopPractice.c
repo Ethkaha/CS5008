@@ -87,7 +87,6 @@ void whileLoopMenu()
 
 int main()
 {
-    forLoopPractice(0, 10);
-    whileLoopPractice(0, 10);
+    whileLoopMenu();
     return 0;
 }
